@@ -34,6 +34,3 @@ A complete end-to-end Course Recommendation System built with Streamlit that sug
    cd course-recommendation-streamlit
 
 ---
-## Contact
-📌 *Author: Suraj Kumar*
-🔗 [LinkedIn](https://www.linkedin.com/in/suraj-kumar-2307skp/) | [GitHub](https://github.com/surajpathak23) | [WhatsApp](https://wa.me/919142496994)
